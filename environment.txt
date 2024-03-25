@@ -1,0 +1,5 @@
+環境建置
+1) 安裝python 3.8
+2) pip install -r requirements.txt
+3) 安裝cuda 11.7 driver https://developer.nvidia.com/cuda-downloads
+4) pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
